@@ -2,10 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0223af9a-8ea3-40b6-bfbb-c9cf9512446b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Learning_学习笔记/003.操作系统+计算机原理（linux）/MIT6.828/04.Page tables (Frans) &amp;&amp; virtual memory.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_学习笔记/003.操作系统+计算机原理（linux）/MIT6.828/3.OS_Organization_and_System_Calls .md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_学习笔记/003.操作系统+计算机原理（linux）/pic/826159e2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/life/house&amp;human.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learning_学习笔记/003.操作系统+计算机原理（linux）/MIT6.828/13.Sleep &amp; Wake up .md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learning_学习笔记/003.操作系统+计算机原理（linux）/MIT6.828/14.File systems.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learning_学习笔记/003.操作系统+计算机原理（linux）/MIT6.828/15.Crash recovery.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learning_学习笔记/003.操作系统+计算机原理（linux）/MIT6.828/16.le system performance and fast crash recovery.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learning_学习笔记/003.操作系统+计算机原理（linux）/MIT6.828/17.Virtual memory for applications.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learning_学习笔记/003.操作系统+计算机原理（linux）/MIT6.828/18.OS organization micro kernel.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learning_学习笔记/003.操作系统+计算机原理（linux）/MIT6.828/5.Calling conventions and stack frames RISC-V (TA).md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learning_学习笔记/003.操作系统+计算机原理（linux）/pic/05d96bf1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learning_学习笔记/003.操作系统+计算机原理（linux）/pic/0a5ac15e.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learning_学习笔记/003.操作系统+计算机原理（linux）/pic/1698c4fc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learning_学习笔记/003.操作系统+计算机原理（linux）/pic/1828dc26.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learning_学习笔记/003.操作系统+计算机原理（linux）/pic/39c4b921.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learning_学习笔记/003.操作系统+计算机原理（linux）/pic/720a1a04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learning_学习笔记/003.操作系统+计算机原理（linux）/pic/829268ae.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learning_学习笔记/003.操作系统+计算机原理（linux）/pic/84c6b44d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learning_学习笔记/003.操作系统+计算机原理（linux）/pic/8a2ce3a7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learning_学习笔记/003.操作系统+计算机原理（linux）/pic/bb29c14f.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learning_学习笔记/003.操作系统+计算机原理（linux）/pic/c27413fb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learning_学习笔记/003.操作系统+计算机原理（linux）/pic/da6eacaf.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learning_学习笔记/003.操作系统+计算机原理（linux）/本科操作系统入门/堆和栈.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/history/chinese_history/中国古代近代经济税收制度/古代土地制度.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/方法论总结/学习的方法论.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learning_学习笔记/000.软实力/如何写文档.md" beforeDir="false" afterPath="$PROJECT_DIR$/Learning_学习笔记/000.软实力/如何写文档.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learning_学习笔记/003.操作系统+计算机原理（linux）/MIT6.828/04.Page tables (Frans) &amp;&amp; virtual memory.md" beforeDir="false" afterPath="$PROJECT_DIR$/Learning_学习笔记/003.操作系统+计算机原理（linux）/MIT6.828/4.Page tables (Frans) &amp;&amp; virtual memory.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learning_学习笔记/003.操作系统+计算机原理（linux）/本科操作系统入门/三、内存管理.md" beforeDir="false" afterPath="$PROJECT_DIR$/Learning_学习笔记/003.操作系统+计算机原理（linux）/本科操作系统入门/三、内存管理.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learning_学习笔记/006.服务治理/服务监控/服务监控常用指标.md" beforeDir="false" afterPath="$PROJECT_DIR$/Learning_学习笔记/006.服务治理/服务监控/服务监控常用指标.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/life/house.md" beforeDir="false" afterPath="$PROJECT_DIR$/life/house.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,14 +37,28 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/life/house.md">
+        <entry file="file://$PROJECT_DIR$/Learning_学习笔记/003.操作系统+计算机原理（linux）/MIT6.828/13.Sleep &amp; Wake up .md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="22">
-                <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
+              <first_editor relative-caret-position="304">
+                <caret line="18" column="6" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
               </first_editor>
               <second_editor />
             </state>
@@ -29,21 +66,11 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Learning_学习笔记/003.操作系统+计算机原理（linux）/MIT6.828/1.introduction.md">
+        <entry file="file://$PROJECT_DIR$/Learning_学习笔记/003.操作系统+计算机原理（linux）/MIT6.828/5.Calling conventions and stack frames RISC-V (TA).md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor />
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Learning_学习笔记/003.操作系统+计算机原理（linux）/MIT6.828/3.OS_Organization_and_System_Calls .md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="330">
-                <caret line="15" selection-start-line="15" selection-end-line="15" />
+              <first_editor relative-caret-position="44">
+                <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
               </first_editor>
               <second_editor />
             </state>
@@ -51,27 +78,29 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Learning_学习笔记/003.操作系统+计算机原理（linux）/MIT6.828/04.Page tables (Frans) &amp;&amp; virtual memory.md">
+        <entry file="file://$PROJECT_DIR$/Learning_学习笔记/003.操作系统+计算机原理（linux）/MIT6.828/6.Isolation&amp;system_call_entry_exit.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="110">
-                <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+              <first_editor relative-caret-position="228">
+                <caret line="12" column="16" lean-forward="true" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/life/house&amp;human.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="22">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>栈</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
   </component>
   <component name="GOROOT" path="/usr/local/Cellar/go/1.13/libexec" />
   <component name="Git.Settings">
@@ -80,18 +109,34 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/life/house.md" />
         <option value="$PROJECT_DIR$/life/house&amp;human.md" />
         <option value="$PROJECT_DIR$/Learning_学习笔记/003.操作系统+计算机原理（linux）/MIT6.828/3.OS_Organization_and_System_Calls .md" />
         <option value="$PROJECT_DIR$/Learning_学习笔记/003.操作系统+计算机原理（linux）/MIT6.828/04.Page tables (Frans) &amp;&amp; virtual memory.md" />
+        <option value="$PROJECT_DIR$/Learning_学习笔记/006.服务治理/服务监控/服务监控常用指标.md" />
+        <option value="$PROJECT_DIR$/life/house.md" />
+        <option value="$PROJECT_DIR$/history/chinese_history/中国古代近代经济税收制度/古代土地制度.md" />
+        <option value="$PROJECT_DIR$/Learning_学习笔记/003.操作系统+计算机原理（linux）/MIT6.828/5.Calling conventions and stack frames RISC-V (TA).md" />
+        <option value="$PROJECT_DIR$/Learning_学习笔记/000.软实力/如何写文档.md" />
+        <option value="$PROJECT_DIR$/方法论总结/学习的方法论.md" />
+        <option value="$PROJECT_DIR$/Learning_学习笔记/003.操作系统+计算机原理（linux）/本科操作系统入门/三、内存管理.md" />
+        <option value="$PROJECT_DIR$/Learning_学习笔记/003.操作系统+计算机原理（linux）/本科操作系统入门/堆和栈.md" />
+        <option value="$PROJECT_DIR$/Learning_学习笔记/003.操作系统+计算机原理（linux）/MIT6.828/Page Fault.md" />
+        <option value="$PROJECT_DIR$/Learning_学习笔记/003.操作系统+计算机原理（linux）/MIT6.828/8.Page Fault.md" />
+        <option value="$PROJECT_DIR$/Learning_学习笔记/003.操作系统+计算机原理（linux）/MIT6.828/14.File systems.md" />
+        <option value="$PROJECT_DIR$/Learning_学习笔记/003.操作系统+计算机原理（linux）/MIT6.828/15.Crash recovery.md" />
+        <option value="$PROJECT_DIR$/Learning_学习笔记/003.操作系统+计算机原理（linux）/MIT6.828/16.le system performance and fast crash recovery.md" />
+        <option value="$PROJECT_DIR$/Learning_学习笔记/003.操作系统+计算机原理（linux）/MIT6.828/17.Virtual memory for applications.md" />
+        <option value="$PROJECT_DIR$/Learning_学习笔记/003.操作系统+计算机原理（linux）/MIT6.828/9.Interrupts.md" />
+        <option value="$PROJECT_DIR$/Learning_学习笔记/003.操作系统+计算机原理（linux）/MIT6.828/10.Multiprocessors and locking .md" />
+        <option value="$PROJECT_DIR$/Learning_学习笔记/003.操作系统+计算机原理（linux）/MIT6.828/13.Sleep &amp; Wake up .md" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="236" />
-    <option name="y" value="62" />
-    <option name="width" value="1393" />
-    <option name="height" value="896" />
+    <option name="x" value="29" />
+    <option name="y" value="37" />
+    <option name="width" value="1680" />
+    <option name="height" value="901" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -115,6 +160,12 @@
               <item name="Huanghao" type="b2602c69:ProjectViewProjectNode" />
               <item name="Huanghao" type="462c0819:PsiDirectoryNode" />
               <item name="Learning_学习笔记" type="462c0819:PsiDirectoryNode" />
+              <item name="000.软实力" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Huanghao" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Huanghao" type="462c0819:PsiDirectoryNode" />
+              <item name="Learning_学习笔记" type="462c0819:PsiDirectoryNode" />
               <item name="003.操作系统+计算机原理（linux）" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -127,7 +178,9 @@
             <path>
               <item name="Huanghao" type="b2602c69:ProjectViewProjectNode" />
               <item name="Huanghao" type="462c0819:PsiDirectoryNode" />
-              <item name="life" type="462c0819:PsiDirectoryNode" />
+              <item name="Learning_学习笔记" type="462c0819:PsiDirectoryNode" />
+              <item name="003.操作系统+计算机原理（linux）" type="462c0819:PsiDirectoryNode" />
+              <item name="本科操作系统入门" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -136,6 +189,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
     <property name="go.import.settings.migrated" value="true" />
@@ -163,9 +217,10 @@
     </option>
   </component>
   <component name="ToolWindowManager">
-    <frame x="236" y="62" width="1393" height="896" extended-state="0" />
+    <frame x="29" y="37" width="1680" height="901" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.37379718" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2741148" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -178,14 +233,14 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.43472585" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="make" order="3" />
       <window_info anchor="right" id="Word Book" order="4" side_tool="true" />
-      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Database" order="5" weight="0.32933232" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -195,8 +250,28 @@
     <entry file="file://$PROJECT_DIR$/life/house.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
+          <first_editor relative-caret-position="352">
+            <caret line="16" selection-start-line="16" selection-end-line="23" selection-end-column="22" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/history/chinese_history/中国古代近代经济税收制度/古代土地制度.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="616">
+            <caret line="28" column="34" selection-start-line="28" selection-start-column="34" selection-end-line="28" selection-end-column="34" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Learning_学习笔记/006.服务治理/服务监控/服务监控常用指标.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
           <first_editor relative-caret-position="22">
-            <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
+            <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
           </first_editor>
           <second_editor />
         </state>
@@ -227,11 +302,170 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Learning_学习笔记/003.操作系统+计算机原理（linux）/MIT6.828/04.Page tables (Frans) &amp;&amp; virtual memory.md">
+    <entry file="file://$PROJECT_DIR$/Learning_学习笔记/000.软实力/如何写文档.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="110">
-            <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+          <first_editor relative-caret-position="506">
+            <caret line="23" selection-start-line="23" selection-end-line="23" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/方法论总结/学习的方法论.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="242">
+            <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Learning_学习笔记/003.操作系统+计算机原理（linux）/本科操作系统入门/三、内存管理.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="132">
+            <caret line="116" column="2" selection-start-line="116" selection-start-column="2" selection-end-line="116" selection-end-column="26" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Learning_学习笔记/003.操作系统+计算机原理（linux）/本科操作系统入门/堆和栈.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="22">
+            <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Learning_学习笔记/003.操作系统+计算机原理（linux）/MIT6.828/4.Page tables (Frans) &amp;&amp; virtual memory.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="352">
+            <caret line="16" selection-start-line="16" selection-end-line="16" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Learning_学习笔记/003.操作系统+计算机原理（linux）/MIT6.828/8.Page Fault.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="440">
+            <caret line="20" column="2" selection-start-line="20" selection-start-column="2" selection-end-line="20" selection-end-column="2" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Learning_学习笔记/003.操作系统+计算机原理（linux）/MIT6.828/11.Thread switching.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Learning_学习笔记/003.操作系统+计算机原理（linux）/MIT6.828/16.le system performance and fast crash recovery.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="528">
+            <caret line="24" column="2" selection-start-line="24" selection-start-column="2" selection-end-line="24" selection-end-column="2" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Learning_学习笔记/003.操作系统+计算机原理（linux）/MIT6.828/17.Virtual memory for applications.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="154">
+            <caret line="7" selection-start-line="7" selection-end-line="7" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Learning_学习笔记/003.操作系统+计算机原理（linux）/MIT6.828/18.OS organization micro kernel.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Learning_学习笔记/003.操作系统+计算机原理（linux）/MIT6.828/10.Multiprocessors and locking .md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="242">
+            <caret line="11" column="10" lean-forward="true" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Learning_学习笔记/003.操作系统+计算机原理（linux）/MIT6.828/9.Interrupts.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="462">
+            <caret line="21" column="17" lean-forward="true" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Learning_学习笔记/003.操作系统+计算机原理（linux）/pic/bb29c14f.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Learning_学习笔记/003.操作系统+计算机原理（linux）/MIT6.828/15.Crash recovery.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="396">
+            <caret line="18" selection-start-line="18" selection-end-line="18" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Learning_学习笔记/003.操作系统+计算机原理（linux）/MIT6.828/14.File systems.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="612">
+            <caret line="174" selection-start-line="174" selection-end-line="174" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Learning_学习笔记/003.操作系统+计算机原理（linux）/MIT6.828/5.Calling conventions and stack frames RISC-V (TA).md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="44">
+            <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Learning_学习笔记/003.操作系统+计算机原理（linux）/MIT6.828/13.Sleep &amp; Wake up .md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="304">
+            <caret line="18" column="6" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Learning_学习笔记/003.操作系统+计算机原理（linux）/MIT6.828/6.Isolation&amp;system_call_entry_exit.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="228">
+            <caret line="12" column="16" lean-forward="true" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
           </first_editor>
           <second_editor />
         </state>
