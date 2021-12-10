@@ -2,5 +2,9 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/FE-前端/demo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Note/007.架构工程/设计模式与编程思想/design_pattern" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Note/007.架构工程/设计模式与编程思想/design_pattern/go/design_pattern" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Note/007.架构工程/设计模式与编程思想/design_pattern_test/design_pattern" vcs="Git" />
   </component>
 </project>
