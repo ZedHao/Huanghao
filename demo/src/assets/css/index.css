@@ -1,0 +1,148 @@
+html, body, #app {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.el-button {
+    border-radius: 2px;
+    padding: 0;
+    width: 100px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 12px;
+    background-color: #1890FF;
+}
+
+/* 重置面包屑 */
+.el-breadcrumb {
+    margin-bottom: 15px;
+    font-size: 12px;
+}
+
+/* 重置卡片 */
+.el-card {
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.15) !important;
+}
+
+
+
+/* 重置分页 */
+.el-pagination {
+    margin-top: 15px;
+}
+
+/* 全局过渡样式 */
+.fade-enter,
+.fade-leave-active {
+    opacity: 0;
+}
+
+.fade-enter-active,
+.fade-leave-active {
+    transition: opacity 0.5s;
+}
+
+/* 全局滚动条重置 */
+/* 滚动条的宽度 */
+::-webkit-scrollbar {
+    width: 10px;
+    height: 10px;
+}
+
+/* 滚动条的滑块 */
+::-webkit-scrollbar-thumb {
+    background-color: rgb(133, 125, 125);
+    border-radius: 5px;
+}
+
+/* 侧边栏滚动条 */
+.el-aside::-webkit-scrollbar {
+    width: 10px;
+    height: 50px;
+}
+
+/* 滚动条的滑块 */
+.el-aside::-webkit-scrollbar-thumb {
+    background-color: rgba(255, 255, 255, 0.2);
+    border-radius: 5px;
+}
+
+.el-table tr,
+.el-table th,
+.el-table td {
+    background-color: rgba(204, 204, 204, .3);
+                border: 1px dashed rgba(96, 101, 105, 0.5);
+
+}
+.el-table th.gutter {
+   	display: table-cell!important;
+
+}
+
+/* 设置table header的背景颜色 */
+
+.el-table__header th, .el-table__header tr {
+    background-color: lightskyblue;
+
+}
+
+/* 设置表主体的高度 */
+
+.el-table__body td, .el-table__body th {
+    padding: 1px;
+
+}
+
+/* 设置表头的高度 */
+
+.el-table__header td, .el-table__header th {
+    padding: 6px 0px;
+
+}
+
+/* 设置分页器的高度 */
+
+.site-wrapper .el-pagination {
+    margin-top: 5px;
+
+    text-align: right;
+
+}
+
+.el-pager li.active {
+    color: #080909;
+
+    cursor: default;
+
+    background-color: #17B3A3;
+
+    border-radius: 2px;
+
+}
+
+.el-table .warning-row {
+    background: oldlace;
+}
+
+.el-table .success-row {
+    background: darkseagreen;
+}
+
+.el-table {
+    display: flex;
+    flex-direction: column;
+    border-collapse: collapse;
+        margin-top: 15px;
+    font-size: 12px;
+    table-layout:fixed;
+    word-break:break-all;
+    width: 100vh;
+}
+.el-table-column th {
+    width: 10px;
+
+}
+
