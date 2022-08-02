@@ -5,45 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8a248c50-c2ee-4357-a29e-9562956b2db1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Note/001.语言/go/chanel.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Note/001.语言/go/go 协程 chanel 反射.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Note/001.语言/go/go内存管理&amp;gc.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Note/001.语言/go/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Note/001.语言/go/img_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Note/001.语言/go/img_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Note/001.语言/go/img_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Note/001.语言/go/img_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/1838680135286585.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/1838683121636213.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/1838695621129106.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/1838702335682661.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/1838705924310670.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/1838706373390548.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/1838706632471421.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/1838706877903635.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/1838707237476502.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/1838707329677010.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/1838707661487461.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/1838709810299449.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/1838716512654240.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/1838717682853901.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/1838718046994728.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/1838718336772447.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/1838718593077605.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/1838718788734978.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/1838719489441483.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/1838719991764257.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/1838720277054124.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/1838720680090320.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/1838764988170266.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/1838774023205394.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/1838778250970271.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/1838779599641061.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/1838780364854334.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/1838780761492833.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/1838781859152403.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Huanghao.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Huanghao.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Note/001.语言/go/img_10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Note/001.语言/go/img_11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Note/001.语言/go/img_12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Note/001.语言/go/img_13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Note/001.语言/go/img_14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Note/001.语言/go/img_15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Note/001.语言/go/img_16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Note/001.语言/go/img_17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Note/001.语言/go/img_18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Note/001.语言/go/img_19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Note/001.语言/go/img_20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Note/001.语言/go/img_21.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Note/001.语言/go/img_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Note/001.语言/go/img_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Note/001.语言/go/img_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Note/001.语言/go/img_8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Note/001.语言/go/img_9.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Note/001.语言/go/go 协程 chanel 反射.md" beforeDir="false" afterPath="$PROJECT_DIR$/Note/001.语言/go/go 协程 &amp;GMP&amp; 反射.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Note/001.语言/go/go内存管理&amp;gc.md" beforeDir="false" afterPath="$PROJECT_DIR$/Note/001.语言/go/go内存管理&amp;gc.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
