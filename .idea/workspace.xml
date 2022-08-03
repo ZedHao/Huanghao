@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
   <component name="ChangeListManager">
     <list default="true" id="aec54bee-3e29-42bd-ba4a-62374cc3f6ae" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/Note/007.架构工程/设计模式与编程思想/design_pattern/go/design_pattern/01_singleton.go" afterDir="false" />
@@ -16,11 +17,40 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+=======
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8a248c50-c2ee-4357-a29e-9562956b2db1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Note/001.语言/go/img_10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Note/001.语言/go/img_11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Note/001.语言/go/img_12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Note/001.语言/go/img_13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Note/001.语言/go/img_14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Note/001.语言/go/img_15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Note/001.语言/go/img_16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Note/001.语言/go/img_17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Note/001.语言/go/img_18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Note/001.语言/go/img_19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Note/001.语言/go/img_20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Note/001.语言/go/img_21.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Note/001.语言/go/img_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Note/001.语言/go/img_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Note/001.语言/go/img_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Note/001.语言/go/img_8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Note/001.语言/go/img_9.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Note/001.语言/go/go 协程 chanel 反射.md" beforeDir="false" afterPath="$PROJECT_DIR$/Note/001.语言/go/go 协程 &amp;GMP&amp; 反射.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Note/001.语言/go/go内存管理&amp;gc.md" beforeDir="false" afterPath="$PROJECT_DIR$/Note/001.语言/go/go内存管理&amp;gc.md" afterDir="false" />
+    </list>
+>>>>>>> 5c0b388298d84810cd486094cd63c203085f5074
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+<<<<<<< HEAD
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
@@ -184,10 +214,34 @@
         </subPane>
       </pane>
     </panes>
+=======
+  <component name="GOROOT" url="file:///usr/local/Cellar/go/1.17.5/libexec" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Note/001.语言/go/chanel.go" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Note/001.语言/go/go内存管理&amp;gc.md" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2CCvMdZB8GxUDiC4nV13TBancKZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+>>>>>>> 5c0b388298d84810cd486094cd63c203085f5074
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+<<<<<<< HEAD
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
@@ -196,10 +250,22 @@
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
+=======
+    <property name="go.format.on.save.advertiser.fired" value="true" />
+    <property name="go.formatter.settings.were.checked" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.modules.go.list.on.any.changes.was.set" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.watchers.conflict.with.on.save.actions.check.performed" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+>>>>>>> 5c0b388298d84810cd486094cd63c203085f5074
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
+<<<<<<< HEAD
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -422,5 +488,44 @@
         </state>
       </provider>
     </entry>
+=======
+  <component name="RunManager">
+    <configuration name="go build chanel.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Huanghao" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/Note/001.语言/go/chanel.go" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build chanel.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/Note/001.语言/go/chanel.go</url>
+          <line>19</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/Note/001.语言/go/chanel.go</url>
+          <line>143</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+>>>>>>> 5c0b388298d84810cd486094cd63c203085f5074
   </component>
 </project>
