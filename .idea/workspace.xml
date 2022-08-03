@@ -4,28 +4,7 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8a248c50-c2ee-4357-a29e-9562956b2db1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Note/001.语言/go/img_10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Note/001.语言/go/img_11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Note/001.语言/go/img_12.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Note/001.语言/go/img_13.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Note/001.语言/go/img_14.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Note/001.语言/go/img_15.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Note/001.语言/go/img_16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Note/001.语言/go/img_17.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Note/001.语言/go/img_18.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Note/001.语言/go/img_19.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Note/001.语言/go/img_20.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Note/001.语言/go/img_21.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Note/001.语言/go/img_5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Note/001.语言/go/img_6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Note/001.语言/go/img_7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Note/001.语言/go/img_8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Note/001.语言/go/img_9.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Note/001.语言/go/go 协程 chanel 反射.md" beforeDir="false" afterPath="$PROJECT_DIR$/Note/001.语言/go/go 协程 &amp;GMP&amp; 反射.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Note/001.语言/go/go内存管理&amp;gc.md" beforeDir="false" afterPath="$PROJECT_DIR$/Note/001.语言/go/go内存管理&amp;gc.md" afterDir="false" />
-    </list>
+    <list default="true" id="8a248c50-c2ee-4357-a29e-9562956b2db1" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
