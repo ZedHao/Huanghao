@@ -41,11 +41,13 @@
 - NOT
 下面接地
 ![](../pic/Lark20201119203936.png)
+![img.png](img.png)
 - AND【串联】
 ![](../pic/Lark20201119204207.png)
 - OR【并联】
 ![](../pic/Lark20201119204327.png)
 - XOR
+  XOR 主要用来判断两个值是否不同。
 ![](../pic/Lark20201119204549.png)
 # 二进制
 一个 0 1 就是一个bit 1byte【字节】 = 8bit【比特】
@@ -54,7 +56,8 @@
 - 表示字母 ascii 不适合汉语日语 unicode 16位
 # ALU(算数逻辑单元 arithmetic logic unit) 【如何计算的】
 1. arithmetic 单元
-half adder 半加器
+half adder 半加器 
+XOR 主要用来判断两个值是否不同。
 ![](../pic/Lark20201119210839.png)
 full adder 全加器
 ![](../pic/Lark20201119211130.png)
